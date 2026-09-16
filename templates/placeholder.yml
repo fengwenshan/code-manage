@@ -1,9 +1,0 @@
-spec:
-  inputs:
-    message:
-      default: hello from risen-tools
----
-
-placeholder:
-  script:
-    - echo "$[[ inputs.message ]]"
